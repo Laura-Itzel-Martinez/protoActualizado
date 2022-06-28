@@ -1,0 +1,1 @@
+<a href="registro.php" class="btn-flotante">Registrate Ahora!!</a>
